@@ -35,7 +35,7 @@ class DC_FreeForm_GeoIP_Sample
 	var $version		= '1.0.0';
 	var $description	= 'Sample extension showing how to hook into main DC FreeForm GeoIP extension.';
 	var $settings_exist = 'n';
-	var $docs_url		= '';
+	var $docs_url		= 'http://www.designchuchi.ch/index.php/blog/comments/dc-freeform-geoip-extension#a_developers';
 
 	// -------------------------------
 	//	Constructor - Extensions use this for settings
