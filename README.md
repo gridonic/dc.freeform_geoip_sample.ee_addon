@@ -1,0 +1,1 @@
+For more information, see the documentation of [DC FreeForm GeoIP ExpressionEngine addon](http://github.com/designchuchi/dc.freeform_geoip.ee_addon).
